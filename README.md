@@ -1,7 +1,7 @@
 ###
 <h1 align="left">Hey there 👋</h1>
 
-<p align="left">I'm Sagar.<br><br>- 🔭 I’m working on controls software for robotic manipulator.<br>- 📚 I'm currently learning sensor fusion and geometric control. I like to learn control methods for robotic systems and occasionally explore algorithms for computer vision.<br>- ⚡ I am picking up on snowboarding these days.</p>
+<p align="left">I'm Sagar.<br><br>- 🔭 I’m working on controls software for robotic manipulator.<br>- 📚 I'm currently learning geometric control. I like to learn control methods for robotic systems and occasionally explore algorithms for computer vision.<br>- ⚡ I am picking up on snowboarding these days.</p>
 
 ###
 
@@ -25,6 +25,8 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" height="40" alt="ros logo" />
   <img width="12" />
   <img src="https://avatars.githubusercontent.com/u/3979232?s=200&v=4" height="40" alt="ros2 logo" />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" height="40" alt="ubuntu logo" />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" height="40" alt="arduino logo" />
 </div>
