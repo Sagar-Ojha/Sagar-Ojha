@@ -1,7 +1,7 @@
 ###
 <h1 align="left">Hey there 👋</h1>
 
-<p align="left">I'm Sagar.<br><br>- 🔭 I’m working on controls software for robotic manipulator.<br>- 📚 I'm currently learning geometric control. I like to learn control methods for robotic systems and occasionally explore algorithms for computer vision.<br>- ⚡ I am picking up on snowboarding these days.</p>
+<p align="left">I'm Sagar.<br><br>- 🔭 I’m working on controls software for robotic manipulator.<br>- 📚 I'm currently learning geometric control and have a strong interest in control methodologies for robotic systems. In addition to that, I ocassionally explore computer vision algorithms as well. I am particularly focused on the integration of control theory with computer vision algorithms, as these fields are vital for the development of autonomous robotic systems.<br>- ⚡ I am picking up on snowboarding these days.</p>
 
 ###
 
